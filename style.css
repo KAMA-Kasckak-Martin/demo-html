@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    padding: .5rem;
+}
+
+body{
+    text-align: center;
+    width: 600px;
+    margin-left: 25rem;
+    background-image:url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+
+}
+p{
+    font-family: "Roboto Thin";
+}
+
+.lol{
+    width: 20rem;
+    height: 15rem;
+}
+
+img{
+    width: 15rem;
+    height: 15rem;
+}
+
+.bli{
+    color: orangered;
+}
+
+.blii{
+    color: blue;
+}
+
+
+h1{
+    font-family: Farisi;
+}
+
+
